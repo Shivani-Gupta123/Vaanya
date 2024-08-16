@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 16 Aug 2024 14:05:11 at https://www.triptotemples.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.triptotemples.com/ -O1 "C:\Users\shiva\Desktop\Vaanya" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:06:36	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.triptotemples.com/)
+14:16:33	Error: 	"Not Found" (404) at link https://www.triptotemples.com/adi-kailash/adi-kailash-&-om-parvat-yatra (from https://www.triptotemples.com/kailash-mansarovar/overland-kailash-mansarovar-yatra)
+14:17:00	Error: 	"Not Found" (404) at link https://www.triptotemples.com/images/icons/inc/Transport.png (from https://www.triptotemples.com/kailash-mansarovar/kailash-mansarovar-yatra-via-lucknow)
+14:17:00	Error: 	"Not Found" (404) at link https://www.triptotemples.com/images/icons/inc/sightseeing.png (from https://www.triptotemples.com/kailash-mansarovar/kailash-yatra-via-lhasa)
+14:18:09	Error: 	"Not Found" (404) at link https://www.triptotemples.com/images/icons/Rest House.svg (from https://www.triptotemples.com/adi-kailash/adi-kailash-and-om-parvat-ex-delhi)
+14:18:11	Error: 	"Not Found" (404) at link https://ik.imagekit.io/tttnew/tttnew/images/gantori.jpg (from https://www.triptotemples.com/package/char-dham)
+14:18:11	Error: 	"Not Found" (404) at link https://ik.imagekit.io/tttnew/tttnew/images/kedarnath.jpg (from https://www.triptotemples.com/package/char-dham)
+14:18:11	Error: 	"Not Found" (404) at link https://ik.imagekit.io/tttnew/tttnew/images/badrinath.jpg (from https://www.triptotemples.com/package/char-dham)
+14:20:31	Error: 	"Not Found" (404) at link https://www.triptotemples.com/package/[slug] (from https://www.triptotemples.com/package/panch-badri-pilgrimage-tour)
+14:26:37	Error: 	"Not Found" (404) at link https://www.triptotemples.com/'../images/blog-banner.png' (from https://www.triptotemples.com/blogs)
+14:28:00	Error: 	"Not Found" (404) at link https://www.triptotemples.com/images/north-india-tour-add.png (from https://www.triptotemples.com/blogs)
+14:28:01	Error: 	"Not Found" (404) at link https://www.triptotemples.com/images/panch-kailash-add.png (from https://www.triptotemples.com/blogs)
+14:28:12	Error: 	"Not Found" (404) at link https://cdn.triptotemples.com/assets/img/location.png (from https://www.triptotemples.com/contact-us)
+14:28:12	Error: 	"Not Found" (404) at link https://cdn.triptotemples.com/assets/img/telephone.png (from https://www.triptotemples.com/contact-us)
+14:28:12	Error: 	"Not Found" (404) at link https://cdn.triptotemples.com/assets/img/email.png (from https://www.triptotemples.com/contact-us)
+14:28:28	Error: 	"Not Found" (404) at link https://www.triptotemples.com/img/kailash-mansarovar-yatra-map.jpg (from https://www.triptotemples.com/faqs)
+14:28:29	Error: 	"Not Found" (404) at link https://www.triptotemples.com/blogs/adi-kailash/parvati-sarovar-and-gauri-kund (from https://www.triptotemples.com/blogs/kailash-mansarovar/about-mount-kailash)
+14:29:09	Error: 	"Not Found" (404) at link https://www.triptotemples.com/char-dham/chardham-yatra (from https://www.triptotemples.com/blogs/kailash-mansarovar/history-of-kailash-mansarovar)
+14:29:09	Error: 	"Not Found" (404) at link https://www.triptotemples.com/blog/'../images/blog-banner.png' (from https://www.triptotemples.com/blog/adi-kailash)
+14:29:10	Error: 	"Not Found" (404) at link https://www.triptotemples.com/faqs/'../images/blog-banner.png' (from https://www.triptotemples.com/faqs/kailash-mansarovar-yatra)
+14:30:15	Error: 	"Not Found" (404) at link https://cdn.triptotemples.com/images/collection/15968.png (from https://www.triptotemples.com/collections/panch-kailash-mani-mahesh-kinnaur-kailash-in-hindi)
+14:30:15	Error: 	"Not Found" (404) at link https://www.triptotemples.com/blogs/kailash-mansarovar/ailash Mansarovar Yatra Food: What Kind Of Food Is Served On The Mansarovar Tour? (from https://www.triptotemples.com/blogs/kailash-mansarovar/what-kind-of-food-is-served-on-the-tour)
+14:30:15	Error: 	"Not Found" (404) at link https://cdn.triptotemples.com/images/collection/58642.jpg (from https://www.triptotemples.com/collections/popular-places-we-see-in-adi-kailash-and-om-parvat-yatra)
+14:30:15	Error: 	"Not Found" (404) at link https://ik.imagekit.io/ttt/images/blog_posts/Kainchi-Dham.jpg (from https://www.triptotemples.com/blogs/adi-kailash/places-to-visit-near-pithoragarh)
+14:30:15	Error: 	"Not Found" (404) at link https://ik.imagekit.io/tttnew/tttnew/images/blog_posts/chitai-golu-temple.jpg (from https://www.triptotemples.com/blogs/adi-kailash/places-to-visit-near-pithoragarh)
+14:30:15	Error: 	"Not Found" (404) at link https://ik.imagekit.io/tttnew/tttnew/images/blog_posts/jageshwar.jpg (from https://www.triptotemples.com/blogs/adi-kailash/places-to-visit-near-pithoragarh)
+14:30:15	Error: 	"Not Found" (404) at link https://ik.imagekit.io/tttnew/tttnew/images/blog_posts/Patal-Bhuvaneshwar.jpg (from https://www.triptotemples.com/blogs/adi-kailash/places-to-visit-near-pithoragarh)
+14:30:15	Error: 	"Not Found" (404) at link https://www.triptotemples.com/panch-kailash/shrikhand-mahadev-yatra (from https://www.triptotemples.com/blogs/panch-kailash/shrikhand-mahadev-yatra)
+14:30:15	Error: 	"Not Found" (404) at link https://www.triptotemples.com/package/manimahesh-yatra (from https://www.triptotemples.com/blogs/panch-kailash/mani-mahesh-yatra)
+14:30:32	Error: 	"Not Found" (404) at link https://www.triptotemples.com/images/icons/inc/Hotels.png (from https://www.triptotemples.com/varanasi-tour/varanasi–sarnath-tour)
+14:30:32	Error: 	"Not Found" (404) at link https://www.triptotemples.com/images/icons/inc/Transport & Sightseeing.png (from https://www.triptotemples.com/varanasi-tour/varanasi–sarnath-tour)
+14:30:32	Error: 	"Not Found" (404) at link https://cdn.triptotemples.com/ImageManager/66a4eb888002f3450a724588-parikrama1.png?tr=w-900,h-600 (from https://www.triptotemples.com/blogs/kailash-mansarovar/how-long-is-kailash-mansarovar-trek)
+14:30:32	Error: 	"Not Found" (404) at link https://www.triptotemples.com/blogs/kailash-mansarovar/Mobile Network: Does My India Mobile Work During Kailash Yatra (from https://www.triptotemples.com/blogs/kailash-mansarovar/does-my-india-mobile-work-during-kailash-yatra)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 31 seconds : 2335 links scanned, 2301 files written (274848183 bytes overall) [230277234 bytes received at 144737 bytes/sec], 57882742 bytes transferred using HTTP compression in 469 files, ratio 18%, 13.0 requests per connection
+(33 errors, 0 warnings, 0 messages)
